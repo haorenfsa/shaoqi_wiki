@@ -1,6 +1,2 @@
 site_name: 哨骑百科
-nav:
-- 首页: index.md
-- 关于我: about.md
-- 分布式: distributed.md
 theme: readthedocs

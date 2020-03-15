@@ -1,2 +1,5 @@
 site_name: 哨骑百科
+pages:
+- 首页: index.md
+- 关于我: about.md
 theme: readthedocs
